@@ -3,6 +3,7 @@
     "target": "ES2024",
     "outDir": "./dist",
     "rootDir": "./src",
+    "sourceMap": true,
     "module": "esnext",
     "moduleResolution": "node",
     "esModuleInterop": true
